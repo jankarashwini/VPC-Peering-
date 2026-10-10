@@ -6,6 +6,11 @@ This project demonstrates how to establish a VPC Peering connection between two 
 
 The project includes VPC creation, CIDR block configuration, VPC Peering, route table updates, and network connectivity verification using AWS services.
 
+
+Architecture Diagram:
+<img width="1063" height="838" alt="image" src="https://github.com/user-attachments/assets/eabb1e62-1cbc-4116-a23f-6dada2e00578" />
+
+
 🎯 Objectives
 
 - Connect two VPCs using VPC Peering.
